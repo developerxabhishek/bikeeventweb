@@ -31,7 +31,7 @@ const Navbar = () => {
               <h1 class="logo m-4 mt-1 pt-1" style={{ fontSize: "2.5vmax" }}>
                 {/* <span style={{ color: "#fff" }}>Expert</span>Riders */}
                 <img
-                  src="/images/bikeLogopng.png"
+                  src="./images/bikeLogopng.png"
                   alt=""
                   height="auto"
                   width="100px"
