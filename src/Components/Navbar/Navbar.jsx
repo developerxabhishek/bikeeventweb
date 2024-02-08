@@ -32,7 +32,7 @@ const Navbar = () => {
                 {/* <span style={{ color: "#fff" }}>Expert</span>Riders */}
                 <img
                   src="/images/bikeLogopng.png"
-                  alt="logo"
+                  alt=""
                   height="auto"
                   width="100px"
                   id="logobike"
