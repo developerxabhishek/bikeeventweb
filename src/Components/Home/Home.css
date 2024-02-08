@@ -1,0 +1,21 @@
+.overlay-home {
+
+    min-height: 100vh;
+    background: url(https://plus.unsplash.com/premium_photo-1663013453313-e8c6a37fbffe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJpa2VzfGVufDB8fDB8fHww), #00000082; 
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+
+.center {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.border1{
+    border: 3px solid #ffae01;
+    border-radius: 5px;
+}
+.animate__animated{
+    animation-duration: 2.5s;
+}

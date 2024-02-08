@@ -1,0 +1,37 @@
+
+/* ================================================================================================================================
+                                                        responsive css
+================================================================================================================================ */
+
+@media only screen and (max-width: 1016px) {
+    .tr-text{
+      font-size: 60px;
+    }
+    .prg{
+      font-size: 20px;
+    }
+}
+@media only screen and (max-width: 775px) {
+  .tr-text{
+    font-size: 40px;
+  }
+  .prg{
+    font-size: 15px;
+  }
+  #photo h1{
+    font-size: 50px;
+  }
+   
+  h1,h2,h3,h4,h5,p{
+    text-align: center;
+  }
+  .branch-contant {
+    width:100%;
+    margin-right: 0px;
+  }
+}
+@media only screen and (max-width: 1016px) {
+#gallary .responsive{
+    width: 100vw;
+}
+}
