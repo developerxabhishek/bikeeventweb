@@ -179,9 +179,9 @@
     .navbar-container input[type="checkbox"]:checked ~ .logo{
         display: none;
     }
-    #logobike{
+    /* #logobike{
         display: none;
         position: absolute;
         bottom: 40px;
-    }
+    } */
 }
