@@ -23,15 +23,20 @@ const Navbar = () => {
                 <a href="#services">Partners</a>
               </li>
 
-              
-
               <li>
                 <a href="#team">Team</a>
               </li>
             </ul>
             <a href="#home">
               <h1 class="logo m-4 mt-1 pt-1" style={{ fontSize: "2.5vmax" }}>
-                <span style={{ color: "#fff" }}>Expert</span>Riders
+                {/* <span style={{ color: "#fff" }}>Expert</span>Riders */}
+                <img
+                  src="/images/bikeLogopng.png"
+                  alt="logo"
+                  height="auto"
+                  width="100px"
+                  id="logobike"
+                />
               </h1>
             </a>
           </div>
